@@ -9,7 +9,6 @@ const teamName = figlet.textSync("Team JS", {
 	width: 80,
 	whitespaceBreak: true,
 });
-console.log(teamName);
 
 app.get("/", (req, res) => {
 	res.send(`<pre>${teamName}</pre>`);

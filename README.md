@@ -15,9 +15,18 @@ npm i express figlet
 ```
     const express = require("express");
     const app = express();
+    const figlet = require("figlet");
+
+    const teamName = figlet.textSync("Team JS", {
+        font: "georgia11",
+        horizontalLayout: "default",
+        verticalLayout: "default",
+        width: 80,
+        whitespaceBreak: true,
+    });
 
     app.get("/", (req, res) => {
-        res.send("Team JS");
+        res.send(`<pre>${teamName}</pre>`);
     });
     app.get("/js", (req, res) => {
         res.send("JavaScript is the best!");
