@@ -4,6 +4,8 @@
 
 ![alt text](https://memegenerator.net/img/instances/84708100.jpg)
 
+MAKE SURE YOU HAVE NODE INSTALLED
+
 1. first make a directory
 2. cd in to this directory and open a terminal
 3. install all dependencies using npm
