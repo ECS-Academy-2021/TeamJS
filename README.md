@@ -44,7 +44,7 @@ npm i express figlet
 
 ```
 
-6. run the app
+6. run the app (it runs on port 9090)
 
 ```
 node app.js
