@@ -6,6 +6,11 @@
 
 MAKE SURE YOU HAVE NODE INSTALLED
 
+install nodejs with homebrew:
+```
+brew install node
+```
+
 1. first make a directory
 2. cd in to this directory and open a terminal
 3. install all dependencies using npm
@@ -50,3 +55,5 @@ npm i express figlet
 node app.js
 
 ```
+
+7. open the browser and go to http://localhost:9090/
