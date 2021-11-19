@@ -6,10 +6,11 @@
 
 MAKE SURE YOU HAVE NODE INSTALLED
 
-install nodejs with homebrew:
+On MacOS install nodejs with homebrew:
 ```
 brew install node
 ```
+If you're on any other OS... google how to install nodejs
 
 1. first make a directory
 2. cd in to this directory and open a terminal
