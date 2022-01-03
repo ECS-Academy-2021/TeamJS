@@ -2,7 +2,7 @@
 
 ## This is an open source project!! Please feel free to contribute
 
-![alt text](https://memegenerator.net/img/instances/84708100.jpg)
+![alt text](https://c.tenor.com/wRYX2P4yzPcAAAAC/the-office-michael-scott.gif)
 
 MAKE SURE YOU HAVE NODE INSTALLED
 
