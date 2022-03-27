@@ -24,7 +24,7 @@ npm i express figlet
 4. make a file called app.js in the directory
 5. copy paste this into the app:
 
-```
+```js
     const express = require("express");
     const app = express();
     const figlet = require("figlet");
